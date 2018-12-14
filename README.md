@@ -1,4 +1,4 @@
-#API Rest - B2W Star Wars
+# API Rest - B2W Star Wars
 
 ## Desafio
 
@@ -36,7 +36,7 @@ npm i
 
 para pode instalar as dependências.
 
-###Executar API
+### Executar API
 
 Executar o comando:
 
@@ -44,7 +44,7 @@ Executar o comando:
 npm start
 ```
 
-###Executar Testes API
+### Executar Testes API
 
 Executar testes:
 
